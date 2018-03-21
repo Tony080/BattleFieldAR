@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "282778703057",
+    "firebase_url": "https://battlefieldar-cdbfe.firebaseio.com",
+    "project_id": "battlefieldar-cdbfe",
+    "storage_bucket": "battlefieldar-cdbfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282778703057:android:b01db18433589acd",
+        "android_client_info": {
+          "package_name": "org.tensorflow.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282778703057-1qnckc6cu91v2sri518obkv0sv1esg33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tensorflow.demo",
+            "certificate_hash": "6f48be26598865cbf3bf789bda43d4aef09ec374"
+          }
+        },
+        {
+          "client_id": "282778703057-l75oipqjhunh45i28bq4fu8ogerm0drd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SjpGFrpWNvO0GUahFp3ru86Gi8XFTNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282778703057-l75oipqjhunh45i28bq4fu8ogerm0drd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
