@@ -13,7 +13,10 @@ This game is built on the [demo of TensorFlow for Android](https://github.com/te
 It's using YOLO neural network to do the object detection. Then replace the object box with monsters as the same size of the box.<br>
 A player can hit on the anywhere of the screen to shoot. If the monster is in the center of the screen, there will be a longer vibration(50ms). 
 If the shot is missed, there will be a shorter vibration(20ms).<br>
-The game lasts for 30 seconds for a round. And it will upload your score to Firebase and display the leader board as the result.
+The game lasts for 30 seconds for a round. And it will upload your score to Firebase and display the leader board as the result.<br>
+![Sample 1](https://raw.githubusercontent.com/Tony-Hu/BattleFieldAR/master/samples/1.png)
+<br>
+![Sample 2](https://raw.githubusercontent.com/Tony-Hu/BattleFieldAR/master/samples/2.png)
 <br><br>
 Notice that, this game is still under development. For now, it's only a project done within a quarter of my university. <br>
 There are still a lots of jobs to do:
